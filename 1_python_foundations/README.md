@@ -30,6 +30,26 @@ I tested the functions with sample inputs to check that they returned the expect
 
 The project focused on Python functions and their outputs; it did not include charts or visualizations.
 
+### Project Screenshots
+
+The following screenshots show selected Python functions, their outputs, and the final readiness check.
+
+**1. Harvest Calculations**
+
+![Harvest calculations](images/harvest-calculations.png)
+
+**2. Season Summary**
+
+![Season summary](images/harvest-season-summary.png)
+
+**3. Field Harvest Records**
+
+![Field harvest records](images/harvest-field-records.png)
+
+**4. Final Readiness Check**
+
+![Final readiness check](images/harvest-readiness-check.png)
+
 ## 4. The So What?
 
 This project strengthened my ability to use Python to solve practical problems through reusable functions, data cleaning, calculations, and testing. It showed me how simple automation can reduce repetitive work and help organize agricultural information.
